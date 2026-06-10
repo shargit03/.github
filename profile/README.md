@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there 👋
 
 I'm Sharvani, a Computer Engineering student passionate about Java development, problem solving, and learning new technologies.
@@ -38,7 +37,7 @@ I'm Sharvani, a Computer Engineering student passionate about Java development, 
 
 ## 📫 Connect With Me
 
-- GitHub: your-profile-link
+- GitHub: https://github.com/shargit03
 <!--
 **shargit03/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
 
