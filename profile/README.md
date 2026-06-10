@@ -1,5 +1,44 @@
 ## Hi there 👋
+# Hi there 👋
 
+I'm Sharvani, a Computer Engineering student passionate about Java development, problem solving, and learning new technologies.
+
+## 🚀 About Me
+
+- 🎓 Computer Engineering Student
+- ☕ Primary Language: Java
+- 💻 Interested in Software Development
+- 🌱 Currently learning Git, GitHub, and Data Structures
+- 🎯 Goal: Become a skilled software engineer
+
+## 🛠️ Technologies & Tools
+
+- Java
+- Git
+- GitHub
+- MySQL
+- HTML
+- CSS
+- VS Code
+- IntelliJ IDEA
+
+## 📚 Currently Working On
+
+- Data Structures and Algorithms in Java
+- Java OOP Projects
+- GitHub Portfolio Development
+
+## 📈 Learning Goals for 2026
+
+- Spring Boot
+- REST APIs
+- Advanced DSA
+- System Design Basics
+- Open Source Contributions
+
+## 📫 Connect With Me
+
+- GitHub: your-profile-link
 <!--
 **shargit03/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
 
